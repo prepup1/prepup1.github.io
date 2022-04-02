@@ -625,13 +625,19 @@ select {
 
 h1,
 h2,
-h3,
 h4,
 h5,
 h6 {
     font-weight: 900;
     color: inherit;
     letter-spacing: -0.0325em;
+}
+
+h3 {
+    font-weight: 900;
+    color: inherit;
+    letter-spacing: -0.0325em;
+    color: #46877f;
 }
 
 h1 a,
@@ -2339,6 +2345,11 @@ body.is-touch .main {
 
 
 /* Contact */
+
+.c-title {
+    margin-bottom: 20px;
+    color: #46877f;
+}
 
 #contact {
     overflow: hidden;
