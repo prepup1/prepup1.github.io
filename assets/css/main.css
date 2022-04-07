@@ -2345,6 +2345,21 @@ body.is-touch .main {
 
 /* Contact */
 
+.rightJS {
+    background: #46877f;
+}
+
+.ji {
+    float: left;
+    width: 80%;
+    padding: 1%;
+    margin: 1% 10%;
+    height: 50px;
+    border-radius: 0.5em;
+    box-shadow: 0 0.05em 0.1em;
+    margin-top: 2em;
+}
+
 .c-title {
     margin-bottom: 20px;
     color: #46877f;
